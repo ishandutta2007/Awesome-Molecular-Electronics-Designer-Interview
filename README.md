@@ -4,7 +4,13 @@
 
 # 🧪 Awesome Molecular Electronics Designer Interview Q&A 💡
 
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+</p>
+
 Welcome to the ultimate preparation hub for **Molecular Electronics Designer** interviews! This repository contains curated questions, answers, and study resources covering nanofabrication, quantum transport, self-assembly, and characterization.
+
+Whether you are preparing for a job interview as a Nanotechnology Engineer, Molecular Electronics Researcher, or working on Nanoelectronics and Single-Molecule Junction designs, this comprehensive Q&A guide covers critical concepts like coherent tunneling, self-assembled monolayers (SAMs), STM/AFM characterization, and advanced photolithography techniques.
 
 ---
 
