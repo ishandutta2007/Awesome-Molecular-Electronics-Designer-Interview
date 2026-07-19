@@ -35,3 +35,15 @@ Contributions are welcome! Please refer to our [CONTRIBUTING.md](file:///C:/User
 ## 📄 License
 
 This project is licensed under the [LICENSE](file:///C:/Users/ishan/Documents/Projects/Awesome-Molecular-Electronics-Designer-Interview/LICENSE) - see the file for details.
+
+##  Star History
+<div align="center">
+<a href="https://www.star-history.com/?repos=ishandutta2007%2FAwesome-Molecular-Electronics-Designer-Interview&type=date&legend=bottom-right">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Molecular-Electronics-Designer-Interview&type=date&theme=dark&legend=bottom-right" />
+<source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Molecular-Electronics-Designer-Interview&type=date&legend=bottom-right" />
+<img alt="Star History Chart" src="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Molecular-Electronics-Designer-Interview&type=date&legend=bottom-right" />
+</picture>
+</a>
+</div>
+
